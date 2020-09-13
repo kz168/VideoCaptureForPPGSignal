@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:17:1-52:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6121ad3b3140b2a95eccacd072c30e37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/abf1d469378e27650055644aeb6824f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f77f95dd1871a5386d98fe9fade0e92c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3cc7a77eb6110e80b81bf9257c9b7b51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/0f20149861374205f00d2db44e45b7e0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/035221b3c1f185e4d634b98202fcccdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a8b33b42c4b69d59d6d683e8a6fd3f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a05f7b440eb1793a32cd3564305bc11a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/32d8335cbf2423c1c92a77692ba5cef3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a0da9eb2ab6416f67cff40bcfcc9b3b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f54f9ea28c66e76a3ffec3b7c2dd1f67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d6e4aeb1afa092a42a98cb8f35af0591/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fe761d0ee6b5bd7aaaeb84381ad2031d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83f0b51f0d01a2e3719147d15a9b9a5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dada3e65c621080d5790cd31aa8cca41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1e8e3c75b6bc83bee3141cf6e4a2526a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/05f0e9b3a12965cfe3ea4397f9c0521f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/418478f9e6651735708faba7f91a9d09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/543a52de290ad41cacbdcd8882b0bd5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5a2c189ec350e77d1a5a2597abc6d1b6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a18c3476e25ee20565d88caf384bf1f6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/58ba844a158108291fad0f26c2321bfa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/839f66c956ff7186869373705791e11b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ab6a64bb8fe5dc0d030d2e1d5b9be48d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5b8ff204343fa8c450d98d2f775bf2a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0c57e7ab3fb345f15552a9d86165c676/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/215295e9e8acd9e1b207f1fc222ad454/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52adc88ea4cec637c98b20ae01744c0f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/76912c68b88caeb1286a3cd69c795781/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/711850b5be65208eba17f0b23fcbc040/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ec64a7ca1432b2155f876acdd1930ac0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:17:1-52:12
+	package
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:18:5-47
+	android:versionName
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:25:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:28:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:29:5-60
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:29:19-57
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:30:19-63
+application
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:33:5-50:19
+MERGED from [com.android.volley:volley:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/0f20149861374205f00d2db44e45b7e0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/0f20149861374205f00d2db44e45b7e0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5a2c189ec350e77d1a5a2597abc6d1b6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5a2c189ec350e77d1a5a2597abc6d1b6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a18c3476e25ee20565d88caf384bf1f6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a18c3476e25ee20565d88caf384bf1f6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5a2c189ec350e77d1a5a2597abc6d1b6/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:34:9-41
+	android:icon
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:35:9-45
+	android:allowBackup
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:33:18-44
+	android:theme
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:36:9-45
+	android:usesCleartextTraffic
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:37:9-44
+activity#com.example.android.camera2video.CameraActivity
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:41:9-48:20
+	android:screenOrientation
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:43:19-55
+	android:label
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:42:19-51
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:41:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:46:27-74
+uses-library#org.apache.http.legacy
+ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:49:9-87
+	android:required
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:49:61-85
+	android:name
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml:49:23-60
+uses-sdk
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6121ad3b3140b2a95eccacd072c30e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6121ad3b3140b2a95eccacd072c30e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/abf1d469378e27650055644aeb6824f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/abf1d469378e27650055644aeb6824f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f77f95dd1871a5386d98fe9fade0e92c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f77f95dd1871a5386d98fe9fade0e92c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3cc7a77eb6110e80b81bf9257c9b7b51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3cc7a77eb6110e80b81bf9257c9b7b51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/0f20149861374205f00d2db44e45b7e0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/0f20149861374205f00d2db44e45b7e0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/035221b3c1f185e4d634b98202fcccdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/035221b3c1f185e4d634b98202fcccdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a8b33b42c4b69d59d6d683e8a6fd3f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a8b33b42c4b69d59d6d683e8a6fd3f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a05f7b440eb1793a32cd3564305bc11a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a05f7b440eb1793a32cd3564305bc11a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/32d8335cbf2423c1c92a77692ba5cef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/32d8335cbf2423c1c92a77692ba5cef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a0da9eb2ab6416f67cff40bcfcc9b3b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a0da9eb2ab6416f67cff40bcfcc9b3b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f54f9ea28c66e76a3ffec3b7c2dd1f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f54f9ea28c66e76a3ffec3b7c2dd1f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d6e4aeb1afa092a42a98cb8f35af0591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d6e4aeb1afa092a42a98cb8f35af0591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fe761d0ee6b5bd7aaaeb84381ad2031d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fe761d0ee6b5bd7aaaeb84381ad2031d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83f0b51f0d01a2e3719147d15a9b9a5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83f0b51f0d01a2e3719147d15a9b9a5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dada3e65c621080d5790cd31aa8cca41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dada3e65c621080d5790cd31aa8cca41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1e8e3c75b6bc83bee3141cf6e4a2526a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1e8e3c75b6bc83bee3141cf6e4a2526a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/05f0e9b3a12965cfe3ea4397f9c0521f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/05f0e9b3a12965cfe3ea4397f9c0521f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/418478f9e6651735708faba7f91a9d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/418478f9e6651735708faba7f91a9d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/543a52de290ad41cacbdcd8882b0bd5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/543a52de290ad41cacbdcd8882b0bd5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5a2c189ec350e77d1a5a2597abc6d1b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5a2c189ec350e77d1a5a2597abc6d1b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a18c3476e25ee20565d88caf384bf1f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a18c3476e25ee20565d88caf384bf1f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/58ba844a158108291fad0f26c2321bfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/58ba844a158108291fad0f26c2321bfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/839f66c956ff7186869373705791e11b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/839f66c956ff7186869373705791e11b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ab6a64bb8fe5dc0d030d2e1d5b9be48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ab6a64bb8fe5dc0d030d2e1d5b9be48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5b8ff204343fa8c450d98d2f775bf2a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5b8ff204343fa8c450d98d2f775bf2a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0c57e7ab3fb345f15552a9d86165c676/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0c57e7ab3fb345f15552a9d86165c676/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/215295e9e8acd9e1b207f1fc222ad454/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/215295e9e8acd9e1b207f1fc222ad454/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52adc88ea4cec637c98b20ae01744c0f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52adc88ea4cec637c98b20ae01744c0f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/76912c68b88caeb1286a3cd69c795781/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/76912c68b88caeb1286a3cd69c795781/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/711850b5be65208eba17f0b23fcbc040/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/711850b5be65208eba17f0b23fcbc040/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ec64a7ca1432b2155f876acdd1930ac0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zawadarefin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ec64a7ca1432b2155f876acdd1930ac0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/zawadarefin/Projects/Camera2VideoJava/Application/src/main/AndroidManifest.xml

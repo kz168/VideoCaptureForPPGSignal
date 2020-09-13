@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/userData_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:background="#FFFFFF">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Settings"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <CheckBox
+            android:id="@+id/motionDetectionCheckBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Detect Motion"
+            />
+
+        <CheckBox
+            android:id="@+id/displayPPGCheckBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Display Hemoglobin level"
+            />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Number of different pixels : "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/different_pixels"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawablePadding="8dp"
+            android:gravity="center_vertical"
+            android:hint="Number of different pixels"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Maximum Difference between 2 pixels : "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/maxDifferenceValue"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawablePadding="8dp"
+            android:gravity="center_vertical"
+            android:hint="Maximum Difference between 2 pixels"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Number of different pixels(Global) : "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/global_different_pixels"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawablePadding="8dp"
+            android:gravity="center_vertical"
+            android:hint="Number of different pixels(Global)"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Maximum Difference between 2 pixels(Global) : "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/maxGlobalDifferenceValue"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawablePadding="8dp"
+            android:gravity="center_vertical"
+            android:hint="Maximum Difference between 2 pixels(Global)"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+<!--        <View-->
+<!--        android:layout_width="fill_parent"-->
+<!--        android:layout_height="2px" />-->
+
+<!--        <Spinner-->
+<!--            android:id="@+id/genderSelection"-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:entries="@array/gender_arrays"-->
+<!--            android:prompt="@string/gender_prompt" />-->
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2px" />
+
+<!--        <EditText-->
+<!--            android:id="@+id/user_email"-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:drawablePadding="8dp"-->
+<!--            android:hint="Email"-->
+<!--            android:gravity="center_vertical"-->
+<!--            android:inputType="textEmailAddress"-->
+<!--            android:padding="10dp"-->
+<!--            android:singleLine="true"-->
+<!--            android:textSize="16sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="1px" />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/user_phone"-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:drawablePadding="8dp"-->
+<!--            android:gravity="center_vertical"-->
+<!--            android:padding="10dp"-->
+<!--            android:hint="Phone"-->
+<!--            android:singleLine="true"-->
+<!--            android:textSize="16sp" />-->
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="1px" />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/user_address"-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:drawablePadding="8dp"-->
+<!--            android:gravity="center_vertical"-->
+<!--            android:hint="Address"-->
+<!--            android:padding="10dp"-->
+<!--            android:singleLine="true"-->
+<!--            android:textSize="16sp" />-->
+
+        <Button
+            android:id="@+id/setBtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="3dp"
+            android:padding="3dp"
+            android:text="Set"
+            android:textColor="#009688"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/cancelBtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="3dp"
+            android:padding="3dp"
+            android:text="Cancel"
+            android:textColor="#009688"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>

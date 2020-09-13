@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="description_info">Info</string>
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="key_pref">pref</string>
+    <string name="gender_prompt">Choose a Gender</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_submit">Submit</string>
+    <string name="submit_data_dialog">Are you sure you want to submit the data?</string>
+    <string name="data_save_unsuccessfull">Data could not be saved</string>
+    <string name="data_save_successfull">Data saved successfully</string>
+    <string name="positive_response">OK</string>
+    <string name="response_title">Response</string>
+
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
